@@ -1,0 +1,98 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-image: url(foto1.png);
+	background-color: black;
+}
+
+header{
+	background-color: lightgreen;
+	height: 70px;
+	background-image: url(foto2.png);
+
+}
+header input{
+	width: 350px;
+	height: 30px;
+	outline: none;
+	margin: 15px;
+	margin-left: 250px;
+	background-color: #20B2AA;
+	border-radius: 10px;	
+}
+
+.first{
+	display: block;
+}
+
+#grid{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	margin:100px;
+	flex-grow: 1;
+}
+
+#h1{
+	color: white;
+}
+
+.card img{
+	border-radius: 20%;
+	flex-grow: 1;
+	background-color: lightblue;
+	background-image: url(foto2.png);
+	
+
+}
+h3{
+	color: white;
+	text-align: center;
+}
+
+p{
+	color: white;
+	text-align: center;
+}
+
+h1{
+color: orange;
+text-align: center;
+font-family: 'Bungee Inline', cursive;
+font-family: 'Train One', cursive;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
